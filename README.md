@@ -15,7 +15,7 @@ the weather forecast from [Weather China](http://www.weather.com.cn/)
 
 ## usage ##
 
-<blockquote>
+<pre>
 USAGE:
 weather.py [-d|--delete] -p|--province string -c|--city city
 
@@ -24,7 +24,7 @@ weather.py [-d|--delete] -p|--province string -c|--city city
 	--province province name
 
 	--city city name
-</blockquote>
+</pre>
 
 ## develop ##
 
