@@ -1,12 +1,12 @@
 China Weather Forecast
 ========================
-![alt="favicon"](favicon.png)
+![alt="favicon"](weather_favicon.png)
 
 ## Introduction ###
 the weather forecast from [Weather China](http://www.weather.com.cn/)
 
 ## snapshot ##
-![alt="snapshot"](snapshot.png)
+![alt="snapshot"](weather_snapshot.png)
 
 
 * --delete delete cache data
